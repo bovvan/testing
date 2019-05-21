@@ -8,6 +8,7 @@ x = {
 	"array": [
 	{
 	"test": "test"
+	"newTest": "lol"
 	},
 	{
 	"test": "test"
